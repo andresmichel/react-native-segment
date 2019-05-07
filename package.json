@@ -5,5 +5,8 @@
     "main": "index.js",
     "repository": "https://github.com/andresmichel/react-native-segment",
     "author": "Andres Michel",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "prop-types": "^15.7.2"
+    }
 }
