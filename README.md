@@ -1,14 +1,11 @@
-# react-native-segment
+# react-native-segment-ui
 
 ## Getting Started
 
 - [Installation](#installation)
-- [Properties](#properties)
 
 ### Installation
 
 ```bash
-$ yarn add https://github.com/andresmichel/react-native-segment
+$ npm install react-native-segment-ui
 ```
-
-### Properties
