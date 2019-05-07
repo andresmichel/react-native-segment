@@ -1,5 +1,5 @@
 {
-  "name": "react-native-segment",
+  "name": "react-native-segment-ui",
   "version": "0.1.0",
   "description": "React Native Segment",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "ui",
     "segment"
   ],
-  "repository": "https://github.com/andresmichel/react-native-segment",
+  "repository": "https://github.com/andresmichel/react-native-segment-ui",
   "author": "Andres Michel",
   "license": "MIT",
   "dependencies": {
